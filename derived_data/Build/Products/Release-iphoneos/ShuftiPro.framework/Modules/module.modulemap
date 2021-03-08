@@ -1,0 +1,6 @@
+framework module ShuftiPro {
+  umbrella header "ShuftiPro.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>421FACB1-69AB-489E-B474-1C9C27A0A36B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>421FACB1-69AB-489E-B474-1C9C27A0A36B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShuftiPro project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShuftiPro</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project ShuftiPro with scheme ShuftiPro and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>636724479.25956297</real>
+			<key>timeStoppedRecording</key>
+			<real>636724479.38141501</real>
+			<key>title</key>
+			<string>Cleaning project ShuftiPro with scheme ShuftiPro and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>421FACB1-69AB-489E-B474-1C9C27A0A36B</string>
+		</dict>
+		<key>A0480FBA-C0D0-4990-BEA1-C0D2901C0205</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0480FBA-C0D0-4990-BEA1-C0D2901C0205.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShuftiPro project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShuftiPro</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ShuftiPro with scheme ShuftiPro and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>636724479.38286197</real>
+			<key>timeStoppedRecording</key>
+			<real>636724480.89012897</real>
+			<key>title</key>
+			<string>Building project ShuftiPro with scheme ShuftiPro and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>A0480FBA-C0D0-4990-BEA1-C0D2901C0205</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
